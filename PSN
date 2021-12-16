@@ -102,7 +102,7 @@ t-prof.np.community.playstation.net
 
 # ps4updptl.us.np.community.playstation.net
 gs-sec.ww.np.dl.playstation.net
-event.api.np.km.playstation.net
+# event.api.np.km.playstation.net
 party.rnps.dl.playstation.net
 friends.rnps.dl.playstation.net
 rnps-crl.dl.playstation.net
