@@ -1,4 +1,8 @@
-# This section should block system updates.
+# PS3: This section is not relevant, but I am including what I find anyway.
+
+dus01.ps3.update.playstation.net
+
+# PS4: This section should block most system updates from several countries.
 
 a01.cdn.update.playstation.org.edgesuite.net
 al02.cdn.update.playstation.net
